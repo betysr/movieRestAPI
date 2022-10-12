@@ -14,7 +14,7 @@ END POINTS
   -> Add the movie which come with req.body data then it returns the id.
   
 - DELETE /movie/:id
-  ->Delete movie by id then it returns rest of the movie list.
+  -> Delete movie by id then it returns rest of the movie list.
 
 
 HOW TO START PROJECT 
