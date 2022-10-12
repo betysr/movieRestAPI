@@ -1,4 +1,4 @@
-# nodeRestAPI
+# Node-Express RestAPI
 
 This is an express Rest Api project. 
 
