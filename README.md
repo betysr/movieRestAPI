@@ -4,16 +4,16 @@ This is an express Rest Api project.
 
 END POINTS
 
-GET /movies 
+- GET /movies 
   -> Returns all movies in the list.
   
-GET /movies/:id
+- GET /movies/:id
   -> Returns the movie information which is searched by id.
   
-POST /movie
+- POST /movie
   -> Add the movie which come with req.body data then it returns the id.
   
-DELETE /movie/:id
+- DELETE /movie/:id
   ->Delete movie by id then it returns rest of the movie list.
 
 
